@@ -1,0 +1,62 @@
+[
+    {
+        "name": "UnLtd. India",
+        "info": "UnLtd India serves as a canvas for early-stage social entrepreneurs in India to nurture their ideas and grow as true artists of change. They find and support entrepreneurial individuals with passion to bring about long-lasting solutions to pressing problems in India. To bring their ideas to life, their Incubation Program provides one-on-one coaching, access to mentors and funders, and peer learning.",
+        "type": "Promoting small-scale entrepreneurship"
+    },
+
+    {
+        "name": "Indiegogo",
+        "info": "With their mission being to empower each and everyone to transform the world, by focusing on one idea at a time. Indiegogo strives to help varying artists, entrepreneurs and dreamers to help their imagination come to life by creating long lasting connections and community for funders and makers alike. ",
+        "type": "Crowdfunding"
+    },
+
+    {
+        "name": "Childline",
+        "info": "aims to provide help in the form of healthcare and police assistance, especially to street children. CHILDLINE 1098 is a phone number that spells hope for millions of children across India. It is a 24-hour a day, 365 days a year, free, emergency phone service for children in need of aid and assistance. We not only respond to the emergency needs of children but also link them to relevant services for their long-term care and rehabilitation. ",
+        "type": "helpline"
+    },
+
+    {
+        "name": "Lush ",
+        "info": "Lush is a cosmetic company that deals with various issues regarding environmental awareness and ethical consumerism. Their products are fresh, handmade and free of packaging and they are motivated towards their mission to make the world a better place for “people, animals and environment",
+        "type": "Environment "
+    },
+
+    {
+        "name": "Good Eggs",
+        "info": "Good Eggs is an online grocery that brings farmers directly to your doorstep, offering people access to fresh, local and sustainable foods. They strongly believe that good food leads to a healthier and better world and strives to support local farmers and food systems being socially responsible and environmentally aware. ",
+        "type": "Food Safety"
+    },
+
+    {
+        "name": "Frontier Markets",
+        "info": "Frontier Markets aims to bridge markets between rural customers and solutions. Frontier Markets evolved from a high-touch to a high-tech digital platform working rural women influencers across multiple states in India, adding vital services based on market demand.",
+        "type": "digital rural market setup"
+    },
+
+    {
+        "name": "Nanhi Kali",
+        "info": "Nanhi Kali is a project of the Mahindra Foundation of India, supporting education for underprivileged girls. It is  Designed to support girls from low-income families to complete ten years of formal schooling.  Nanhi Kali raises funds to sponsor uniforms, school supplies and tuition costs for girls in India who are otherwise unable to attend elementary or middle school on their own.",
+        "type": "Education"
+    },
+
+    {
+        "name": "Study Hall Education Foundation",
+        "info": "Study Hall Educational Foundation (SHEF)  is a non profit organization that aims to educate a diverse population of children. It runs a network of six unique schools and four outreach program programs. It aims to develop Democratic and aware citizens through its enhanced curriculum.  ",
+        "type": "Girl Education"
+    },
+
+    {
+        "name": "Bharat Calling",
+        "info": "They conduct a simple orientation, in rural government schools sharing with the students various career options, followed by a camp of 30 days that enables students to apply for admission to higher education institutes of their choice. By providing them with the information they need, the awareness they spread itself has been enough impetus to keep the program going strong.",
+        "type": "rural high school education support"
+    },
+
+    {
+        "name": "Sanergy ",
+        "info": "Sanergy aims to solve the sanitation crisis that plagues the country’s urban slums. Based in Kenya, this social entrepreneurial component stands out because of the approach taken by them to solve this issue- by creating a dense network of small-scale sanitation centers and recycling the waste obtained into usable byproducts such as organic fertilizer and renewable energy. ",
+        "type": "Sanitation "
+    }
+
+]
